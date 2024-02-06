@@ -58,6 +58,7 @@ console.log(
   })
 );
 
+
 console.log(
   [1, 1, 3].map((value, index) => {
     return value + 10;
